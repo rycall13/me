@@ -1,0 +1,1 @@
+To ensure the Flask app is only available on the local os, change 'host' from '0.0.0.0' to '127.0.0.1'.
